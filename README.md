@@ -64,8 +64,6 @@
     <p>Treffen organisiert von Einsatzfahrten Filmer</p>
     <a href="https://www.instagram.com/blaulichtfotografie_bc/" target="_blank">Instagram-Seite</a>
     <div class="logo-container">
-      <img class="logo" src="https://media04.lokalkompass.de/article/2017/06/09/7/9580437_L.png?1564506854" alt="Logo der Feuerwehr">
-      <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/3/37/DRK-Logo_rund_RGB.jpg" alt="Logo des Deutschen Roten Kreuzes">
     </div>
   </footer>
 </body>
